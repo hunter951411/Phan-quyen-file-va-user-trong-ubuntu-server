@@ -39,3 +39,6 @@ Ví dụ: rwxr--r-- (744)
 - Mặc định user tạo file/folder sẽ sở hữu thư mục đó.
 - Lệnh đổi:
 **chown [ user ] : [ group ]   [ file/folder ]**
+
+
+**Nguồn: Internet**
